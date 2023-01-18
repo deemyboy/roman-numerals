@@ -1,0 +1,14 @@
+{
+  "name": "roman-numerals-kata",
+  "version": "1.0.0",
+  "description": "roman numerals kata",
+  "main": "roman_to_arabic.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
